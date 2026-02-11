@@ -48,4 +48,5 @@ The notebook includes visualizations to support the analysis:
 * Historical USD and EUR interest rate trends
 * Sample Monte Carlo FX rate paths
 * Distribution of final FX rates at maturity
-<img width="1790" height="1145" alt="image" src="https://github.com/user-attachments/assets/d70e1c87-9ca9-477f-92d8-2d95e6617b87" />
+<img width="1790" height="1145" alt="image" src="https://github.com/user-attachments/assets/6b04873d-21cb-4fc5-a2f3-cdbe7517e526" />
+
