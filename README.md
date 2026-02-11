@@ -1,5 +1,5 @@
 
-# FX Option Valuation — Summary of Steps & Numerical Results
+# FX Option Valuation 
 This notebook demonstrates the valuation of an FX option using historical data, Monte Carlo simulation, and QuantLib. The process includes data acquisition, volatility estimation, forward rate computation, and option pricing.
 
 ## 1. Data Acquisition & Preparation
